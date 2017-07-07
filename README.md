@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repository. Learning how to use git.
