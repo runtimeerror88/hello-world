@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello we are learning Singer and Airflow")
+  
+  return 0;
+}
